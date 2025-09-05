@@ -12,7 +12,7 @@ This repository contains a collection of machine learning and deep learning proj
 2. **Dog Vision**
    - Description: Deep learning project for classifying dog breeds using the Kaggle Dog Breed Identification Competition dataset.
    - Techniques: Transfer learning with EfficientNetB0.
-   - GitHub: [Dog Vision](https://github.com/vansh-31/ML-Projects/tree/main/Dog-Vision)
+   - GitHub: [Dog Vision](https://github.com/anamikakumawat/dog-breed-identification/tree/main/Dog-Vision)
 
 3. **LipNet: Lipreading using Deep Learning with Conv3D and Bi-LSTM**
    - Description: Deep learning project for lipreading using Conv3D, MaxPool3D, Time Distributed Flatten, Bi-LSTM, and CTC Loss Function.
